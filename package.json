@@ -4,7 +4,7 @@
     "displayName": "NeoDark",
     "description": "NeoDark",
     "icon": "NeoDark.png",
-    "version": "1.1.5",
+    "version": "1.2.0",
     "engines": {
         "vscode": "^1.57.0"
     },
